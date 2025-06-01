@@ -1,0 +1,1 @@
+In my database I store users. I use MongoDB as my database and a collection of first_name, last_name and email. I use CRUD routes in order to get all users, add new users, update current user and delete users.
